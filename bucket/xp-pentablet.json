@@ -5,6 +5,6 @@
 
     "url": "https://www.xp-pen.com/download/file/id/2473/pid/461/ext/zip.html#dl.zip",
     "installer": {
-        "script": "./XPPenWin_3.4.2.230217.exe /DIR=$original_dir /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
+        "script": "$dir/XPPenWin_3.4.2.230217.exe /DIR=$dir /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
     }
 }
