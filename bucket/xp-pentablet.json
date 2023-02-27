@@ -1,7 +1,5 @@
 {
     "description": "XP-Pen Pentablet driver",
     "version": "3.4.2.230217",
-    "url": "https://www.xp-pen.com/download/file/id/2473/pid/461/ext/XPPenWin_3.4.2.230217.zip",
-    "pre_install": "7z.exe e ./XPPenWin_3.4.2.230217.zip",
-    "persist": "config"
+    "url": "https://www.xp-pen.com/download/file/id/2473/pid/461/ext/XPPenWin_3.4.2.230217.zip"
 }
