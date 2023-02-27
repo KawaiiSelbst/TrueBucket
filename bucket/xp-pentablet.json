@@ -3,6 +3,6 @@
     "version": "3.4.2.230217",
     "url": "https://www.xp-pen.com/download/file/id/2473/pid/461/ext/XPPenWin_3.4.2.230217.zip",
     "installer": {
-        "script": "'XPPenWin_3.4.2.230217.exe' /DIR=$original_dir /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
+        "script": "XPPenWin_3.4.2.230217.exe /DIR=$original_dir /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
     }
 }
